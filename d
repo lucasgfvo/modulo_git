@@ -1,0 +1,48 @@
+[33mcommit 6a2c9488ae190a6dc9bf623d59903be5ac939ff2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lucas Gabriel <lucasgfvo@gmail.com>
+Date:   Wed Oct 18 22:01:55 2023 -0300
+
+    inclusão de changelog.md
+
+ changelog.md | 12 [32m++++++++++++[m
+ 1 file changed, 12 insertions(+)
+
+[33mcommit c3e9971a25fb4a4bcf087a33aa03545a6c84e388[m
+Author: Lucas Gabriel <lucasgfvo@gmail.com>
+Date:   Wed Oct 18 21:55:29 2023 -0300
+
+    alterando o conteudo de arquivo2.txt
+
+ a.txt        | 1 [31m-[m
+ arquivo2.txt | 2 [32m+[m[31m-[m
+ 2 files changed, 1 insertion(+), 2 deletions(-)
+
+[33mcommit 96aca49e2bdc5e4b7b70d2f2215ec5d7e6cd11d9[m
+Author: Lucas Gabriel <lucasgfvo@gmail.com>
+Date:   Wed Oct 18 21:53:06 2023 -0300
+
+    inclusão de novos arquivos
+    
+    inclusão dos arquivos: arquivo.txt e arquivo2.txt
+
+ a.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 992800673d6e37d06f36e60c85b5ac1f99b77e0d[m
+Author: Lucas Gabriel <lucasgfvo@gmail.com>
+Date:   Wed Oct 18 21:44:09 2023 -0300
+
+    inserindo novos arquivos
+
+ a.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 1a7d395890e33d74e6b4a0e7882b500c5ec0593d[m
+Author: Lucas Gabriel <lucasgfvo@gmail.com>
+Date:   Wed Oct 18 21:29:07 2023 -0300
+
+    suqiwdiasidqiinvinqinviqnedi
+
+ arquivo.txt  | 1 [32m+[m
+ arquivo2.txt | 1 [32m+[m
+ 2 files changed, 2 insertions(+)
